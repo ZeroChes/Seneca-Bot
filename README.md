@@ -1,4 +1,5 @@
 **Установка**
+
 *1. Клонируем репозиторий:*
 ```bash
 git clone git@github.com:ZeroChes/Seneca-Bot.git
