@@ -1,3 +1,32 @@
+**Установка**
+1. Клонируем репозиторий:
+```bash
+git clone git@github.com:ZeroChes/Seneca-Bot.git
+cd Seneca-Bot 
+```
+Создаем и активируем виртуальное окружение:
+
+```bash
+
+python3 -m venv myenv_py39
+source myenv_py39/bin/activate
+```
+Устанавливаем зависимости:
+
+```bash
+pip install -r requirements.txt
+```
+Создаем файл .env с токенами:
+```
+TELEGRAM_BOT_TOKEN=ваш_токен_бота
+OAUTH_TOKEN=ваш_токен_API
+```
+Запускаем бота в фоне:
+
+```bash
+nohup python SenecaBot.py &
+```
+
 **Telegram-Бот для эффективного извлечения информации из статей**
 
 ### **Введение**
