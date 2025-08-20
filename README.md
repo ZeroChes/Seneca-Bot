@@ -120,4 +120,4 @@ https://habr.com/ru/companies/bastion/articles/876946/
 
 Телеграм-бот для извлечения кратких описаний статей является полезным инструментом для специалистов IT, работающих в условиях информационного шума. Бот автоматизирует процесс извлечения ключевой информации, экономя время и усилия, и помогает быстро оценивать релевантность материалов. В условиях постоянно меняющейся IT-ландшафта такие инструменты становятся необходимостью для эффективного управления знаниями и оставления актуальными в своей сфере.
 
-![image.png](attachment:a0c5b56f-0dad-43f8-a299-1e2f556f38c6:image.png)
+![image.png](https://file.notion.so/f/f/97b3a88d-cda0-4311-b20a-7d10aeb005da/a0c5b56f-0dad-43f8-a299-1e2f556f38c6/image.png?table=block&id=189f35e1-47dd-80b0-8f04-cd399ac8a4c2&spaceId=97b3a88d-cda0-4311-b20a-7d10aeb005da&expirationTimestamp=1755734400000&signature=IjLxEez605e_44-mUrFe4PDb6NWiGMWB9-OpXcfZ0w8&downloadName=image.png)
